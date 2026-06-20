@@ -122,10 +122,9 @@ Este proyecto es parte de un portafolio personal y está disponible para propós
 
 ## 👤 Autor
 
-**Cesar Delgado**
-- 📧 Email: [Tu email]
-- 💼 LinkedIn: [Tu LinkedIn]
-- 🌐 Portfolio: [Tu portfolio]
+**Cesar Adrian Delgado Diaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
 
 ---
 
